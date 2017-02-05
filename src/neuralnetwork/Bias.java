@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  *
- * @author sander van kasteel, http://stackoverflow.com/questions/80476/how-to-concatenate-two-arrays-in-java
+ * @author sander van kasteel, svankasteel@gmail.com
  *
  * Ongebruikte klasse voor eventuele bias
  *
